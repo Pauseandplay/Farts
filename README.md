@@ -15,7 +15,7 @@ Welcome to the Fart Facts webpage! This project is a humorous and educational we
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/fart.git
+    git clone https://github.com/Pauseandplay/fart.git
     ```
 2. Open `index.html` in your web browser to view the page.
 
